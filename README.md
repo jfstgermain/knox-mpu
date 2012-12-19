@@ -2,7 +2,7 @@
 
 A Node.js client designed to make large file uploads to Amazon S3 via the [MultiPartUpload API](http://docs.amazonwebservices.com/AmazonS3/latest/dev/sdksupportformpu.html) simple and easy. It's built on top of the excellent [Knox](https://github.com/LearnBoost/knox) library from the guys over at LearnBoost.
 
-Added: keep part in memory instead of being written to disk
+**Added by jfstgermain: keep part in memory instead of being written to disk**
 
 ### Features
 
